@@ -40,11 +40,13 @@ Thank you! <3`,
     await db.collection("interviews").add(interview);
 
     return NextResponse.json({ success: true, data: interview }, { status: 200 });
-  } catch (error: any) {
+  } catch (error) {
     console.error("Interview generation error:", error);
     return NextResponse.json(
-      { success: false, error: error.message ?? "Internal Server Error" },
+      { success: false, message: "Internal Server Error" },
       { status: 500 }
     );
-  }
 }
+
+  }
+

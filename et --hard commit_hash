@@ -1,0 +1,39 @@
+[33m52e602a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/new-branch[m[33m)[m  change root layout
+[33m6e286c9[m[33m ([m[1;31morigin/master[m[33m)[m Merge branch 'new-branch'
+[33m4bb9e19[m fix: remove auth redirect loop in layouts
+[33m814d654[m Merge pull request #12 from Manekapiyu/new-branch
+[33m58c7f81[m modify layout.tsx
+[33m0893861[m Merge pull request #11 from Manekapiyu/new-branch
+[33m77b0bc4[m Merge branch 'new-branch' of https://github.com/Manekapiyu/voice-ai-interview-platform into new-branch
+[33m8a7c7c2[m  modify
+[33macd959a[m Merge pull request #10 from Manekapiyu/master
+[33me64ecf1[m modify auth.action.ts
+[33mc6a8888[m Merge pull request #9 from Manekapiyu/new-branch
+[33m987a10e[m igone eslint and typescrit errors for now
+[33m3a3ad75[m  fix redirect issue
+[33m17d5a75[m modify
+[33m80eccc2[m Merge pull request #8 from Manekapiyu/new-branch
+[33m58e9ab6[m modify auth page
+[33ma290ae6[m Merge pull request #7 from Manekapiyu/new-branch
+[33mc868f4e[m ignore eslint adn typescript errors
+[33mc3484d3[m Merge pull request #6 from Manekapiyu/new-branch
+[33m69d4024[m Merge branch 'new-branch' of https://github.com/Manekapiyu/voice-ai-interview-platform into new-branch
+[33m8bf37e7[m  implement interview api
+[33m62c00a0[m  implement ai agent
+[33m13645f7[m Merge pull request #5 from Manekapiyu/new-branch
+[33ma2995fb[m Merge pull request #4 from Manekapiyu/master
+[33m1f85512[m implement auth
+[33m48089a5[m modify setupsign in and sign up
+[33m9f75dc2[m add floder firebase
+[33mce2bab9[m Merge pull request #3 from Manekapiyu/new-branch
+[33m87e7dc7[m  add files components/
+[33mdad2ce1[m Merge pull request #2 from Manekapiyu/new-branch
+[33m0c21735[m all updated
+[33m2f17a83[m add InterviewCard.tsx
+[33m8b87c3a[m  add DisplayTechIcons.tsx
+[33m5147e03[m Merge pull request #1 from Manekapiyu/new-branch
+[33m708177e[m add api route.ts
+[33mdf34d75[m authform updated
+[33m704ef48[m  project updated
+[33m11468e4[m gitignore
+[33mced77e9[m[33m ([m[1;32mnew-branch-name[m[33m)[m first commit
